@@ -1,3 +1,10 @@
 footer {
     background-color: #071629;
 }
+
+header {
+    background-image: url('images/headphones_hero_1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
