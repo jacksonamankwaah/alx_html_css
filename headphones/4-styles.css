@@ -1,0 +1,28 @@
+#footer {
+    display: flex;
+    justify-content: space-between; /* logo left, socials right */
+    align-items: center;
+    padding: 20px;
+    color: white;
+}
+
+.footer_socials {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+
+.footer_socials img {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.footer_logo {
+    display: flex;
+    margin-left: 100px;
+    width: 200px;
+    height: auto;
+}
